@@ -1,0 +1,14 @@
+/home/svenminds/robocomp/components/Pruebas/Practica1/choca/CMakeFiles/install/strip.dir
+/home/svenminds/robocomp/components/Pruebas/Practica1/choca/CMakeFiles/install/local.dir
+/home/svenminds/robocomp/components/Pruebas/Practica1/choca/CMakeFiles/edit_cache.dir
+/home/svenminds/robocomp/components/Pruebas/Practica1/choca/CMakeFiles/rebuild_cache.dir
+/home/svenminds/robocomp/components/Pruebas/Practica1/choca/CMakeFiles/list_install_components.dir
+/home/svenminds/robocomp/components/Pruebas/Practica1/choca/CMakeFiles/install.dir
+/home/svenminds/robocomp/components/Pruebas/Practica1/choca/src/CMakeFiles/install/strip.dir
+/home/svenminds/robocomp/components/Pruebas/Practica1/choca/src/CMakeFiles/install/local.dir
+/home/svenminds/robocomp/components/Pruebas/Practica1/choca/src/CMakeFiles/choca.dir
+/home/svenminds/robocomp/components/Pruebas/Practica1/choca/src/CMakeFiles/edit_cache.dir
+/home/svenminds/robocomp/components/Pruebas/Practica1/choca/src/CMakeFiles/rebuild_cache.dir
+/home/svenminds/robocomp/components/Pruebas/Practica1/choca/src/CMakeFiles/install.dir
+/home/svenminds/robocomp/components/Pruebas/Practica1/choca/src/CMakeFiles/list_install_components.dir
+/home/svenminds/robocomp/components/Pruebas/Practica1/choca/src/CMakeFiles/choca_automoc.dir

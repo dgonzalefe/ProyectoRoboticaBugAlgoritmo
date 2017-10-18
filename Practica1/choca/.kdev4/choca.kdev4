@@ -1,0 +1,25 @@
+[Buildset]
+BuildItems=@Variant(\x00\x00\x00\t\x00\x00\x00\x00\x01\x00\x00\x00\x0b\x00\x00\x00\x00\x01\x00\x00\x00\n\x00c\x00h\x00o\x00c\x00a)
+
+[CMake]
+Build Directory Count=2
+Current Build Directory Index=1
+
+[CMake][CMake Build Directory 0]
+Build Directory Path=/home/svenminds/robocomp/components/Pruebas/Practica1/choca/build
+Build Type=Debug
+CMake Binary=/usr/bin/cmake
+Environment Profile=
+Extra Arguments=
+Install Directory=
+
+[CMake][CMake Build Directory 1]
+Build Directory Path=/home/svenminds/robocomp/components/Pruebas/Practica1/choca
+Build Type=Debug
+CMake Binary=/usr/bin/cmake
+Environment Profile=
+Extra Arguments=
+Install Directory=/usr/local
+
+[Project]
+VersionControlSupport=kdevgit
